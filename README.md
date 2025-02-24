@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **next.js react & typescript**
 
-- 👨‍💻 All of my projects are available at [https://david-delarosa.netlify.app/](https://david-delarosa.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://daviddrosa.netlify.app/](https://daviddrosa.netlify.app/)
 
 - 📫 How to reach me **DM_Delarosa93@yahoo.com**
 
